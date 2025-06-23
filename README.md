@@ -76,6 +76,10 @@ This PowerShell-based GUI app allows Microsoft Teams admins to **connect**, **lo
    ↪ [Policy B] False
 ```
 
+![Policy_Drift](https://github.com/user-attachments/assets/5ac5b244-e4de-4d18-b033-2f85825fb630)
+
+![Teams_Policy_Matrix](https://github.com/user-attachments/assets/b57fcc95-2502-4227-b8b7-6dac05a97a4a)
+
 ---
 
 ## 👑 Author  
